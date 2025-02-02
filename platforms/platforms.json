@@ -1,0 +1,107 @@
+[
+  {
+    "name": "PC Windows",
+    "slug": "pc-windows",
+    "year_start": 1985,
+    "year_end": null,
+    "description": "Principal plataforma de gaming para PC, basada en el sistema operativo Windows de Microsoft. Ofrece la mayor variedad de juegos y la mejor capacidad de personalización de hardware."
+  },
+  {
+    "name": "Linux",
+    "slug": "linux",
+    "year_start": 1991,
+    "year_end": null,
+    "description": "Sistema operativo de código abierto con creciente soporte para juegos a través de Steam Proton y tecnologías nativas. Destaca por su flexibilidad y rendimiento."
+  },
+  {
+    "name": "macOS",
+    "slug": "macos",
+    "year_start": 2001,
+    "year_end": null,
+    "description": "Plataforma de Apple para gaming en computadoras Mac. Compatible con juegos nativos y Apple Arcade, con soporte creciente de desarrolladores."
+  },
+  {
+    "name": "PlayStation 5",
+    "slug": "playstation5",
+    "year_start": 2020,
+    "year_end": null,
+    "description": "Última consola de sobremesa de Sony, con tecnología de ray-tracing, SSD ultra rápido y control DualSense con retroalimentación háptica avanzada."
+  },
+  {
+    "name": "PlayStation 4",
+    "slug": "playstation4",
+    "year_start": 2013,
+    "year_end": null,
+    "description": "Consola de octava generación de Sony, con una extensa biblioteca de juegos exclusivos y servicios en línea a través de PlayStation Network."
+  },
+  {
+    "name": "Xbox Series X",
+    "slug": "xbox-series-x",
+    "year_start": 2020,
+    "year_end": null,
+    "description": "Consola más potente de Microsoft, con capacidades 4K, ray-tracing y retrocompatibilidad extensa con generaciones anteriores de Xbox."
+  },
+  {
+    "name": "Xbox Series S",
+    "slug": "xbox-series-s",
+    "year_start": 2020,
+    "year_end": null,
+    "description": "Versión digital y compacta de nueva generación de Xbox, orientada a gaming en 1440p y servicios digitales como Game Pass."
+  },
+  {
+    "name": "Nintendo Switch",
+    "slug": "nintendo-switch",
+    "year_start": 2017,
+    "year_end": null,
+    "description": "Consola híbrida de Nintendo que funciona tanto como dispositivo portátil como de sobremesa, con controles Joy-Con desmontables."
+  },
+  {
+    "name": "Nintendo Switch OLED",
+    "slug": "nintendo-switch-oled",
+    "year_start": 2021,
+    "year_end": null,
+    "description": "Versión mejorada del Switch con pantalla OLED de 7 pulgadas, mejor audio y soporte ajustable más amplio."
+  },
+  {
+    "name": "Android",
+    "slug": "android",
+    "year_start": 2008,
+    "year_end": null,
+    "description": "Sistema operativo móvil de Google, principal plataforma de gaming móvil con acceso a Google Play Store y múltiples tiendas alternativas."
+  },
+  {
+    "name": "iOS",
+    "slug": "ios",
+    "year_start": 2007,
+    "year_end": null,
+    "description": "Plataforma móvil de Apple para iPhone y iPad, con App Store y Apple Arcade como servicios principales de distribución de juegos."
+  },
+  {
+    "name": "Meta Quest 3",
+    "slug": "meta-quest-3",
+    "year_start": 2023,
+    "year_end": null,
+    "description": "Dispositivo VR independiente de Meta con capacidades de realidad mixta, controladores Touch Plus y procesador Snapdragon XR2 Gen 2."
+  },
+  {
+    "name": "Steam Deck",
+    "slug": "steam-deck",
+    "year_start": 2022,
+    "year_end": null,
+    "description": "Consola portátil de Valve que ejecuta SteamOS basado en Linux, permitiendo jugar a la biblioteca de Steam en formato portátil."
+  },
+  {
+    "name": "Xbox Cloud Gaming",
+    "slug": "xbox-cloud-gaming",
+    "year_start": 2020,
+    "year_end": null,
+    "description": "Servicio de juegos en la nube de Microsoft, parte de Xbox Game Pass Ultimate, permitiendo jugar en múltiples dispositivos vía streaming."
+  },
+  {
+    "name": "GeForce NOW",
+    "slug": "geforce-now",
+    "year_start": 2020,
+    "year_end": null,
+    "description": "Plataforma de cloud gaming de NVIDIA que permite transmitir juegos de PC desde múltiples tiendas digitales a cualquier dispositivo compatible."
+  }
+]
