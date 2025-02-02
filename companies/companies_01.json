@@ -1,0 +1,302 @@
+[
+  {
+    "name": "Nintendo",
+    "description": "Japanese video game company known for iconic franchises like Mario, Zelda, and Pokémon.",
+    "founded_date": "1889-09-23",
+    "website": "https://www.nintendo.com"
+  },
+  {
+    "name": "Sony Interactive Entertainment",
+    "description": "Division of Sony Corporation responsible for PlayStation consoles and exclusive games.",
+    "founded_date": "1993-11-16",
+    "website": "https://www.playstation.com/en-us/corporate"
+  },
+  {
+    "name": "Microsoft Studios",
+    "description": "Microsoft's video game development and publishing division, behind Xbox and PC titles.",
+    "founded_date": "2002-11-01",
+    "website": "https://www.xbox.com"
+  },
+  {
+    "name": "Electronic Arts",
+    "description": "One of the largest video game publishers, known for sports, action, and simulation titles.",
+    "founded_date": "1982-05-28",
+    "website": "https://www.ea.com"
+  },
+  {
+    "name": "Activision Blizzard",
+    "description": "Major publisher formed from the merger of Activision and Blizzard Entertainment.",
+    "founded_date": "2008-07-09",
+    "website": "https://www.activisionblizzard.com"
+  },
+  {
+    "name": "Ubisoft Entertainment",
+    "description": "French video game company known for franchises like Assassin's Creed, Far Cry, and Rainbow Six.",
+    "founded_date": "1986-03-28",
+    "website": "https://www.ubisoft.com"
+  },
+  {
+    "name": "Square Enix",
+    "description": "Japanese developer and publisher famous for Final Fantasy, Dragon Quest, and Kingdom Hearts.",
+    "founded_date": "2003-04-01",
+    "website": "https://www.square-enix.com"
+  },
+  {
+    "name": "Capcom",
+    "description": "Japanese developer and publisher known for Resident Evil, Street Fighter, and Mega Man.",
+    "founded_date": "1979-05-30",
+    "website": "https://www.capcom.com"
+  },
+  {
+    "name": "Konami",
+    "description": "Japanese entertainment company with classic franchises like Metal Gear, Castlevania, and Pro Evolution Soccer.",
+    "founded_date": "1969-03-31",
+    "website": "https://www.konami.com"
+  },
+  {
+    "name": "Sega",
+    "description": "Japanese company originally famous for its arcade games and consoles like the Genesis.",
+    "founded_date": "1960-06-03",
+    "website": "https://www.sega.com"
+  },
+  {
+    "name": "Rockstar Games",
+    "description": "American developer and publisher known for Grand Theft Auto and Red Dead Redemption series.",
+    "founded_date": "1998-12-01",
+    "website": "https://www.rockstargames.com"
+  },
+  {
+    "name": "Valve Corporation",
+    "description": "Developer and digital distribution company known for Half-Life, Portal, and the Steam platform.",
+    "founded_date": "1996-08-24",
+    "website": "https://www.valvesoftware.com"
+  },
+  {
+    "name": "Epic Games",
+    "description": "Developer and publisher known for Fortnite and the Unreal Engine.",
+    "founded_date": "1991-01-15",
+    "website": "https://www.epicgames.com"
+  },
+  {
+    "name": "Bandai Namco Entertainment",
+    "description": "Japanese publisher known for Pac-Man, Tekken, and numerous anime-based games.",
+    "founded_date": "2006-03-31",
+    "website": "https://www.bandainamcoent.com"
+  },
+  {
+    "name": "Bethesda Softworks",
+    "description": "Publisher and developer known for The Elder Scrolls, Fallout, and DOOM.",
+    "founded_date": "1986-06-28",
+    "website": "https://bethesda.net"
+  },
+  {
+    "name": "CD Projekt Red",
+    "description": "Polish developer famous for The Witcher series and Cyberpunk 2077.",
+    "founded_date": "2002-05-30",
+    "website": "https://www.cdprojekt.com"
+  },
+  {
+    "name": "Insomniac Games",
+    "description": "American developer known for Ratchet & Clank and Marvel's Spider-Man.",
+    "founded_date": "1994-07-01",
+    "website": "https://www.insomniacgames.com"
+  },
+  {
+    "name": "Naughty Dog",
+    "description": "American studio known for Uncharted and The Last of Us series.",
+    "founded_date": "1984-09-27",
+    "website": "https://www.naughtydog.com"
+  },
+  {
+    "name": "Warner Bros. Interactive Entertainment",
+    "description": "Division of Warner Bros. that publishes games based on its film and TV properties.",
+    "founded_date": "2004-11-15",
+    "website": "https://www.wbgint.com"
+  },
+  {
+    "name": "THQ Nordic",
+    "description": "Austrian publisher known for reviving classic franchises and publishing diverse titles.",
+    "founded_date": "2011-04-01",
+    "website": "https://www.thqnordic.com"
+  },
+  {
+    "name": "Paradox Interactive",
+    "description": "Swedish publisher known for strategy games like Crusader Kings and Europa Universalis.",
+    "founded_date": "1999-05-01",
+    "website": "https://www.paradoxplaza.com"
+  },
+  {
+    "name": "Focus Home Interactive",
+    "description": "French publisher known for a variety of mid-market titles across genres.",
+    "founded_date": "1996-06-01",
+    "website": "https://www.focus-home.com"
+  },
+  {
+    "name": "Devolver Digital",
+    "description": "Independent publisher known for quirky and innovative indie games.",
+    "founded_date": "2009-10-01",
+    "website": "https://www.devolverdigital.com"
+  },
+  {
+    "name": "Gearbox Software",
+    "description": "American developer known for the Borderlands series and other FPS titles.",
+    "founded_date": "1999-06-14",
+    "website": "https://www.gearboxsoftware.com"
+  },
+  {
+    "name": "2K Games",
+    "description": "Publisher known for sports titles and franchises like BioShock and Borderlands.",
+    "founded_date": "2005-01-01",
+    "website": "https://www.2k.com"
+  },
+  {
+    "name": "SNK Corporation",
+    "description": "Japanese company famous for its arcade fighting games and the Neo Geo platform.",
+    "founded_date": "1978-07-01",
+    "website": "https://www.snk-corp.co.jp"
+  },
+  {
+    "name": "Koei Tecmo",
+    "description": "Japanese developer and publisher known for Dynasty Warriors and Dead or Alive.",
+    "founded_date": "2009-04-01",
+    "website": "https://www.koeitecmoamerica.com"
+  },
+  {
+    "name": "Atlus",
+    "description": "Japanese developer and publisher known for the Persona series and Shin Megami Tensei.",
+    "founded_date": "1986-06-01",
+    "website": "https://www.atlus.com"
+  },
+  {
+    "name": "PlatinumGames",
+    "description": "Japanese developer known for fast-paced action titles like Bayonetta and Nier: Automata.",
+    "founded_date": "2006-09-01",
+    "website": "https://www.platinumgames.com"
+  },
+  {
+    "name": "Remedy Entertainment",
+    "description": "Finnish developer known for cinematic action games like Max Payne and Control.",
+    "founded_date": "1995-01-01",
+    "website": "https://www.remedygames.com"
+  },
+  {
+    "name": "FromSoftware",
+    "description": "Japanese developer known for challenging titles such as Dark Souls and Sekiro: Shadows Die Twice.",
+    "founded_date": "1986-11-01",
+    "website": "https://www.fromsoftware.jp"
+  },
+  {
+    "name": "Sumo Digital",
+    "description": "British developer known for work on various licensed and original titles.",
+    "founded_date": "2003-01-01",
+    "website": "https://www.sumo-digital.com"
+  },
+  {
+    "name": "Telltale Games",
+    "description": "American studio known for narrative-driven adventure games, such as The Walking Dead.",
+    "founded_date": "2004-09-01",
+    "website": "https://www.telltale.com"
+  },
+  {
+    "name": "Curve Digital",
+    "description": "Publisher known for bringing indie games to a wider audience.",
+    "founded_date": "2007-01-01",
+    "website": "https://www.curve-digital.com"
+  },
+  {
+    "name": "Microids",
+    "description": "French developer and publisher known for adventure games like Syberia.",
+    "founded_date": "1985-01-01",
+    "website": "https://www.microids.com"
+  },
+  {
+    "name": "Deep Silver",
+    "description": "Publisher known for franchises such as Dead Island and Metro, part of Koch Media.",
+    "founded_date": "2002-01-01",
+    "website": "https://www.deepsilver.com"
+  },
+  {
+    "name": "Rovio Entertainment",
+    "description": "Finnish developer best known for creating Angry Birds.",
+    "founded_date": "2003-06-01",
+    "website": "https://www.rovio.com"
+  },
+  {
+    "name": "Supercell",
+    "description": "Finnish mobile game developer known for Clash of Clans and Brawl Stars.",
+    "founded_date": "2010-05-01",
+    "website": "https://supercell.com"
+  },
+  {
+    "name": "King Digital Entertainment",
+    "description": "Developer and publisher famous for Candy Crush Saga.",
+    "founded_date": "2003-11-01",
+    "website": "https://www.king.com"
+  },
+  {
+    "name": "GungHo Online Entertainment",
+    "description": "Japanese developer and publisher known for mobile and online games.",
+    "founded_date": "1998-03-01",
+    "website": "https://www.gungho.co.jp"
+  },
+  {
+    "name": "NetEase Games",
+    "description": "Chinese developer and publisher active in mobile and PC gaming.",
+    "founded_date": "1997-06-01",
+    "website": "https://game.163.com"
+  },
+  {
+    "name": "Tencent Games",
+    "description": "Division de Tencent, uno de los mayores publishers de juegos en el mundo.",
+    "founded_date": "2003-11-01",
+    "website": "https://www.tencent.com/en-us"
+  },
+  {
+    "name": "Crytek",
+    "description": "German developer known for the Crysis series and advanced game engines.",
+    "founded_date": "1999-06-01",
+    "website": "https://www.crytek.com"
+  },
+  {
+    "name": "id Software",
+    "description": "Pioneer American developer known for Doom, Quake, y Wolfenstein.",
+    "founded_date": "1991-02-01",
+    "website": "https://www.idsoftware.com"
+  },
+  {
+    "name": "Tango Gameworks",
+    "description": "Japanese developer known for The Evil Within series.",
+    "founded_date": "2010-01-01",
+    "website": "https://www.tangogameworks.com"
+  },
+  {
+    "name": "Mojang Studios",
+    "description": "Swedish developer famous for Minecraft.",
+    "founded_date": "2009-05-01",
+    "website": "https://www.minecraft.net/en-us/about-mojang"
+  },
+  {
+    "name": "Double Fine Productions",
+    "description": "American developer known for its creative and narrative-driven games.",
+    "founded_date": "2000-11-01",
+    "website": "https://www.doublefine.com"
+  },
+  {
+    "name": "505 Games",
+    "description": "Italian publisher known for a diverse portfolio of games.",
+    "founded_date": "2007-01-01",
+    "website": "https://505games.com"
+  },
+  {
+    "name": "Larian Studios",
+    "description": "Belgian developer famous for the Divinity series and Baldur's Gate 3.",
+    "founded_date": "1996-03-01",
+    "website": "https://larian.com"
+  },
+  {
+    "name": "Frontier Developments",
+    "description": "British developer known for simulation and management games like Elite Dangerous.",
+    "founded_date": "1994-01-01",
+    "website": "https://www.frontier.co.uk"
+  }
+]
