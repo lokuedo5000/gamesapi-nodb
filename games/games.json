@@ -1,0 +1,31 @@
+[
+  {
+    "gameID": 1001,
+    "title": "Example Game",
+    "description": "An exciting adventure game",
+    "release_date": "2022-09-15",
+    "developer_id": 101,
+    "publisher_id": 102,
+    "rating": 8.7,
+    "metacritic": 85,
+    "esrb_rating": "T",
+    "cover_image": "https://example.com/cover.jpg",
+    "website": "https://example.com",
+    "screenshots": [
+      {
+        "screenshotsID": 2001,
+        "url": "https://example.com/screen1.jpg",
+        "width": 1920,
+        "height": 1080
+      },
+      {
+        "screenshotsID": 2002,
+        "url": "https://example.com/screen2.jpg",
+        "width": 1920,
+        "height": 1080
+      }
+    ],
+    "genres": [],
+    "platforms": []
+  }
+]
