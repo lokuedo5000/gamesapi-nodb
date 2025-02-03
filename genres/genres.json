@@ -1,0 +1,275 @@
+[
+  {
+    "name": "Action",
+    "slug": "action",
+    "year_start": 1970,
+    "year_end": null,
+    "description": "Juegos que enfatizan desafíos físicos, incluyendo coordinación mano-ojo y tiempo de reacción. Típicamente incluyen combate, obstáculos y desafíos basados en reflejos."
+  },
+  {
+    "name": "Action RPG",
+    "slug": "action-rpg",
+    "year_start": 1981,
+    "year_end": null,
+    "description": "Combina elementos de juegos de rol como progresión de personaje y equipamiento con mecánicas de acción en tiempo real. Ejemplos incluyen Dark Souls y Diablo."
+  },
+  {
+    "name": "Adventure",
+    "slug": "adventure",
+    "year_start": 1975,
+    "year_end": null,
+    "description": "Enfocados en la exploración, resolución de puzzles y narrativa interactiva. Los jugadores suelen seguir una historia mientras resuelven varios desafíos."
+  },
+  {
+    "name": "Battle Royale",
+    "slug": "battle-royale",
+    "year_start": 2012,
+    "year_end": null,
+    "description": "Género donde múltiples jugadores compiten por ser el último superviviente en un área que se reduce progresivamente. Combina elementos de supervivencia y acción."
+  },
+  {
+    "name": "Card Game",
+    "slug": "card-game",
+    "year_start": 1970,
+    "year_end": null,
+    "description": "Juegos basados en el uso de cartas, ya sean tradicionales o coleccionables. Incluye tanto juegos de cartas tradicionales digitalizados como TCG."
+  },
+  {
+    "name": "City Builder",
+    "slug": "city-builder",
+    "year_start": 1989,
+    "year_end": null,
+    "description": "Subgénero de simulación donde los jugadores desarrollan y gestionan ciudades, controlando aspectos como zonificación, infraestructura y economía."
+  },
+  {
+    "name": "Dating Sim",
+    "slug": "dating-sim",
+    "year_start": 1983,
+    "year_end": null,
+    "description": "Simuladores de citas que se centran en desarrollar relaciones románticas con personajes, típicamente con elementos de narrativa ramificada."
+  },
+  {
+    "name": "Fighting",
+    "slug": "fighting",
+    "year_start": 1976,
+    "year_end": null,
+    "description": "Juegos de combate uno contra uno o por equipos, enfocados en artes marciales o combate armado, con sistemas de combos y movimientos especiales."
+  },
+  {
+    "name": "First Person Shooter",
+    "slug": "fps",
+    "year_start": 1973,
+    "year_end": null,
+    "description": "Juegos de disparos en primera persona donde el jugador ve el mundo a través de los ojos del protagonista. Enfatiza puntería y posicionamiento."
+  },
+  {
+    "name": "Grand Strategy",
+    "slug": "grand-strategy",
+    "year_start": 1982,
+    "year_end": null,
+    "description": "Juegos de estrategia a gran escala que involucran gestión de naciones o imperios, incluyendo política, economía y guerra."
+  },
+  {
+    "name": "Hack and Slash",
+    "slug": "hack-and-slash",
+    "year_start": 1981,
+    "year_end": null,
+    "description": "Subgénero de acción centrado en combate cuerpo a cuerpo contra múltiples enemigos, con énfasis en combos y habilidades especiales."
+  },
+  {
+    "name": "Horror",
+    "slug": "horror",
+    "year_start": 1981,
+    "year_end": null,
+    "description": "Juegos diseñados para asustar al jugador, usando tensión, atmósfera y elementos sobrenaturales o psicológicos."
+  },
+  {
+    "name": "Idle Game",
+    "slug": "idle-game",
+    "year_start": 2002,
+    "year_end": null,
+    "description": "Juegos que progresan automáticamente con mínima interacción del jugador, centrados en la optimización y la gestión de recursos a largo plazo."
+  },
+  {
+    "name": "JRPG",
+    "slug": "jrpg",
+    "year_start": 1982,
+    "year_end": null,
+    "description": "RPGs de estilo japonés caracterizados por historias lineales, combate por turnos y énfasis en la narrativa y desarrollo de personajes."
+  },
+  {
+    "name": "Life Sim",
+    "slug": "life-sim",
+    "year_start": 1985,
+    "year_end": null,
+    "description": "Simuladores que recrean actividades de la vida cotidiana, relaciones sociales y desarrollo personal en entornos virtuales."
+  },
+  {
+    "name": "MMORPG",
+    "slug": "mmorpg",
+    "year_start": 1991,
+    "year_end": null,
+    "description": "RPGs masivos en línea donde miles de jugadores interactúan en un mundo persistente, con énfasis en progresión y contenido social."
+  },
+  {
+    "name": "MOBA",
+    "slug": "moba",
+    "year_start": 2002,
+    "year_end": null,
+    "description": "Arenas de batalla multijugador donde equipos compiten por objetivos estratégicos controlando héroes únicos con habilidades especiales."
+  },
+  {
+    "name": "Metroidvania",
+    "slug": "metroidvania",
+    "year_start": 1986,
+    "year_end": null,
+    "description": "Juegos de acción-aventura 2D con énfasis en exploración no lineal, desbloqueo de habilidades y backtracking."
+  },
+  {
+    "name": "Music Game",
+    "slug": "music-game",
+    "year_start": 1977,
+    "year_end": null,
+    "description": "Juegos basados en ritmo y música, donde los jugadores siguen patrones o crean música mediante la interacción con el juego."
+  },
+  {
+    "name": "Open World",
+    "slug": "open-world",
+    "year_start": 1984,
+    "year_end": null,
+    "description": "Juegos con mundos extensos explorables libremente, con múltiples actividades y misiones opcionales disponibles."
+  },
+  {
+    "name": "Party Game",
+    "slug": "party-game",
+    "year_start": 1980,
+    "year_end": null,
+    "description": "Juegos diseñados para múltiples jugadores en local, con minijuegos y mecánicas accesibles orientadas al entretenimiento social."
+  },
+  {
+    "name": "Platform",
+    "slug": "platform",
+    "year_start": 1980,
+    "year_end": null,
+    "description": "Juegos centrados en saltar entre plataformas, evitar obstáculos y navegar entornos con precisión."
+  },
+  {
+    "name": "Puzzle",
+    "slug": "puzzle",
+    "year_start": 1970,
+    "year_end": null,
+    "description": "Juegos que desafían el intelecto con rompecabezas lógicos, patrones y resolución de problemas."
+  },
+  {
+    "name": "Racing",
+    "slug": "racing",
+    "year_start": 1973,
+    "year_end": null,
+    "description": "Juegos de competición con vehículos, desde simuladores realistas hasta juegos de carreras arcade."
+  },
+  {
+    "name": "Roguelike",
+    "slug": "roguelike",
+    "year_start": 1980,
+    "year_end": null,
+    "description": "Juegos con generación procedural de niveles, muerte permanente y alto grado de rejugabilidad."
+  },
+  {
+    "name": "RPG",
+    "slug": "rpg",
+    "year_start": 1974,
+    "year_end": null,
+    "description": "Juegos de rol donde los jugadores desarrollan personajes a través de narrativa, toma de decisiones y sistemas de progresión."
+  },
+  {
+    "name": "RTS",
+    "slug": "rts",
+    "year_start": 1982,
+    "year_end": null,
+    "description": "Estrategia en tiempo real donde los jugadores gestionan recursos y unidades simultáneamente para lograr objetivos militares."
+  },
+  {
+    "name": "Sandbox",
+    "slug": "sandbox",
+    "year_start": 1984,
+    "year_end": null,
+    "description": "Juegos que ofrecen herramientas creativas y libertad para experimentar sin objetivos estrictos."
+  },
+  {
+    "name": "Simulation",
+    "slug": "simulation",
+    "year_start": 1974,
+    "year_end": null,
+    "description": "Juegos que recrean aspectos de la realidad, desde vehículos hasta sistemas complejos y actividades específicas."
+  },
+  {
+    "name": "Sports",
+    "slug": "sports",
+    "year_start": 1972,
+    "year_end": null,
+    "description": "Juegos basados en deportes reales o ficticios, desde simuladores realistas hasta interpretaciones arcade."
+  },
+  {
+    "name": "Stealth",
+    "slug": "stealth",
+    "year_start": 1981,
+    "year_end": null,
+    "description": "Juegos que enfatizan el sigilo y la evasión sobre el confrontamiento directo, con mecánicas de ocultamiento y distracción."
+  },
+  {
+    "name": "Strategy",
+    "slug": "strategy",
+    "year_start": 1972,
+    "year_end": null,
+    "description": "Juegos que requieren pensamiento táctico y planificación para lograr objetivos mediante gestión de recursos y toma de decisiones."
+  },
+  {
+    "name": "Survival",
+    "slug": "survival",
+    "year_start": 1980,
+    "year_end": null,
+    "description": "Juegos centrados en la supervivencia del personaje mediante la gestión de recursos, crafteo y superación de amenazas ambientales."
+  },
+  {
+    "name": "Survival Horror",
+    "slug": "survival-horror",
+    "year_start": 1992,
+    "year_end": null,
+    "description": "Combina elementos de horror con mecánicas de supervivencia y recursos limitados."
+  },
+  {
+    "name": "Tactical RPG",
+    "slug": "tactical-rpg",
+    "year_start": 1982,
+    "year_end": null,
+    "description": "RPGs con combate por turnos en cuadrícula, enfatizando posicionamiento y estrategia táctica."
+  },
+  {
+    "name": "Tower Defense",
+    "slug": "tower-defense",
+    "year_start": 1990,
+    "year_end": null,
+    "description": "Subgénero de estrategia donde los jugadores construyen defensas para proteger objetivos de oleadas de enemigos."
+  },
+  {
+    "name": "Turn-Based Strategy",
+    "slug": "turn-based-strategy",
+    "year_start": 1977,
+    "year_end": null,
+    "description": "Juegos de estrategia donde los jugadores se alternan para realizar acciones, permitiendo planificación detallada."
+  },
+  {
+    "name": "Visual Novel",
+    "slug": "visual-novel",
+    "year_start": 1983,
+    "year_end": null,
+    "description": "Juegos narrativos interactivos con énfasis en historia y toma de decisiones, típicamente con arte estilo anime."
+  },
+  {
+    "name": "Walking Simulator",
+    "slug": "walking-simulator",
+    "year_start": 2008,
+    "year_end": null,
+    "description": "Juegos centrados en la exploración y narrativa ambiental con mecánicas minimalistas."
+  }
+]
