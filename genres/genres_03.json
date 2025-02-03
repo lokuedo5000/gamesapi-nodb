@@ -1,0 +1,359 @@
+[
+  {
+    "name": "4X Strategy",
+    "slug": "4x-strategy",
+    "year_start": 1991,
+    "year_end": null,
+    "description": "Juegos de estrategia basados en cuatro principios: eXplorar, eXpandir, eXplotar y eXterminar. Típicamente con turnos y gestión de imperios."
+  },
+  {
+    "name": "Action Adventure Survival",
+    "slug": "action-adventure-survival",
+    "year_start": 2013,
+    "year_end": null,
+    "description": "Híbrido que combina acción-aventura con elementos de supervivencia, crafteo y gestión de recursos."
+  },
+  {
+    "name": "Arena FPS",
+    "slug": "arena-fps",
+    "year_start": 1996,
+    "year_end": null,
+    "description": "FPS competitivo centrado en movimiento rápido, control de mapa y recolección de armas/recursos durante el combate."
+  },
+  {
+    "name": "Art Game",
+    "slug": "art-game",
+    "year_start": 2006,
+    "year_end": null,
+    "description": "Juegos experimentales que priorizan la expresión artística y la experiencia estética sobre la jugabilidad tradicional."
+  },
+  {
+    "name": "Autobattler RPG",
+    "slug": "autobattler-rpg",
+    "year_start": 2020,
+    "year_end": null,
+    "description": "RPGs donde el combate es automático pero el jugador controla la estrategia, equipamiento y composición del equipo."
+  },
+  {
+    "name": "Base Building Survival",
+    "slug": "base-building-survival",
+    "year_start": 2011,
+    "year_end": null,
+    "description": "Juegos de supervivencia con énfasis en construcción y defensa de bases contra amenazas."
+  },
+  {
+    "name": "Board Game Adaptation",
+    "slug": "board-game-adaptation",
+    "year_start": 1976,
+    "year_end": null,
+    "description": "Versiones digitales de juegos de mesa con reglas automatizadas y posible multijugador en línea."
+  },
+  {
+    "name": "Casual Puzzle RPG",
+    "slug": "casual-puzzle-rpg",
+    "year_start": 2012,
+    "year_end": null,
+    "description": "Híbrido de puzzle match-3 con elementos de RPG como progresión de personajes y equipo."
+  },
+  {
+    "name": "Comedy Game",
+    "slug": "comedy-game",
+    "year_start": 1984,
+    "year_end": null,
+    "description": "Juegos diseñados principalmente para hacer reír, con mecánicas y narrativas centradas en el humor."
+  },
+  {
+    "name": "Cozy Game",
+    "slug": "cozy-game",
+    "year_start": 2016,
+    "year_end": null,
+    "description": "Juegos relajantes sin presión, centrados en experiencias positivas y mecánicas reconfortantes."
+  },
+  {
+    "name": "Creature Collector",
+    "slug": "creature-collector",
+    "year_start": 1996,
+    "year_end": null,
+    "description": "Juegos centrados en coleccionar, criar y evolucionar criaturas, similar a monster tamer pero con menos énfasis en combate."
+  },
+  {
+    "name": "Cross-Genre Rhythm",
+    "slug": "cross-genre-rhythm",
+    "year_start": 2015,
+    "year_end": null,
+    "description": "Juegos que incorporan mecánicas rítmicas en otros géneros como dungeon crawlers o shooters."
+  },
+  {
+    "name": "Digital Board Game",
+    "slug": "digital-board-game",
+    "year_start": 1980,
+    "year_end": null,
+    "description": "Juegos de mesa originales creados específicamente para formato digital."
+  },
+  {
+    "name": "Drawing Game",
+    "slug": "drawing-game",
+    "year_start": 1985,
+    "year_end": null,
+    "description": "Juegos basados en dibujar y adivinar, frecuentemente con elementos sociales o multijugador."
+  },
+  {
+    "name": "Driving Sim",
+    "slug": "driving-sim",
+    "year_start": 1974,
+    "year_end": null,
+    "description": "Simuladores realistas de conducción civil, diferenciados de los juegos de carreras por su énfasis en realismo cotidiano."
+  },
+  {
+    "name": "Eco Sim",
+    "slug": "eco-sim",
+    "year_start": 1996,
+    "year_end": null,
+    "description": "Simuladores de ecosistemas donde las acciones del jugador afectan el balance ambiental."
+  },
+  {
+    "name": "Economy Sim",
+    "slug": "economy-sim",
+    "year_start": 1983,
+    "year_end": null,
+    "description": "Simuladores centrados en mercados, comercio y sistemas económicos complejos."
+  },
+  {
+    "name": "Environmental Narrative",
+    "slug": "environmental-narrative",
+    "year_start": 2007,
+    "year_end": null,
+    "description": "Juegos que cuentan historias principalmente a través del diseño de niveles y elementos ambientales."
+  },
+  {
+    "name": "Escape Room",
+    "slug": "escape-room",
+    "year_start": 2012,
+    "year_end": null,
+    "description": "Juegos de puzzle ambientados en espacios cerrados donde el objetivo es encontrar la salida."
+  },
+  {
+    "name": "Fashion Game",
+    "slug": "fashion-game",
+    "year_start": 1991,
+    "year_end": null,
+    "description": "Juegos centrados en diseño de moda, estilismo y gestión de negocios relacionados con la moda."
+  },
+  {
+    "name": "First Person Melee",
+    "slug": "first-person-melee",
+    "year_start": 2006,
+    "year_end": null,
+    "description": "Juegos de combate en primera persona centrados en armas cuerpo a cuerpo en lugar de disparos."
+  },
+  {
+    "name": "First Person Puzzle",
+    "slug": "first-person-puzzle",
+    "year_start": 2007,
+    "year_end": null,
+    "description": "Puzzles en primera persona que utilizan perspectiva y física como elementos centrales."
+  },
+  {
+    "name": "Generative Music Game",
+    "slug": "generative-music-game",
+    "year_start": 2010,
+    "year_end": null,
+    "description": "Juegos que crean música proceduralmente basada en las acciones del jugador."
+  },
+  {
+    "name": "Historical Sim",
+    "slug": "historical-sim",
+    "year_start": 1985,
+    "year_end": null,
+    "description": "Simuladores que recrean períodos históricos específicos con énfasis en precisión histórica."
+  },
+  {
+    "name": "Incremental RPG",
+    "slug": "incremental-rpg",
+    "year_start": 2014,
+    "year_end": null,
+    "description": "Híbrido de juego incremental con elementos RPG como clases, equipamiento y misiones."
+  },
+  {
+    "name": "Interactive Movie",
+    "slug": "interactive-movie",
+    "year_start": 1983,
+    "year_end": null,
+    "description": "Películas interactivas donde los jugadores toman decisiones que afectan el desarrollo de la historia."
+  },
+  {
+    "name": "Loot Game",
+    "slug": "loot-game",
+    "year_start": 1996,
+    "year_end": null,
+    "description": "Juegos centrados en recolectar equipamiento aleatorio con diferentes estadísticas y rareza."
+  },
+  {
+    "name": "Medical Sim",
+    "slug": "medical-sim",
+    "year_start": 1982,
+    "year_end": null,
+    "description": "Simuladores de procedimientos médicos y gestión hospitalaria."
+  },
+  {
+    "name": "Memory Game",
+    "slug": "memory-game",
+    "year_start": 1974,
+    "year_end": null,
+    "description": "Juegos basados en recordar y replicar patrones o secuencias."
+  },
+  {
+    "name": "Mini Golf Game",
+    "slug": "mini-golf",
+    "year_start": 1980,
+    "year_end": null,
+    "description": "Juegos de golf en miniatura con énfasis en físicas y diseño de niveles creativos."
+  },
+  {
+    "name": "Narrative Puzzle",
+    "slug": "narrative-puzzle",
+    "year_start": 2008,
+    "year_end": null,
+    "description": "Juegos donde los puzzles están íntimamente ligados al desarrollo de la historia."
+  },
+  {
+    "name": "Nature Sim",
+    "slug": "nature-sim",
+    "year_start": 1994,
+    "year_end": null,
+    "description": "Simuladores de vida silvestre y comportamiento animal en entornos naturales."
+  },
+  {
+    "name": "Novel Game",
+    "slug": "novel-game",
+    "year_start": 2010,
+    "year_end": null,
+    "description": "Juegos que adaptan novelas con elementos interactivos y decisiones ramificadas."
+  },
+  {
+    "name": "On-Rails Shooter",
+    "slug": "on-rails-shooter",
+    "year_start": 1974,
+    "year_end": null,
+    "description": "Shooters donde el movimiento es automático y el jugador solo controla el apuntado y disparo."
+  },
+  {
+    "name": "Parkour Game",
+    "slug": "parkour-game",
+    "year_start": 2008,
+    "year_end": null,
+    "description": "Juegos centrados en movimiento acrobático urbano y navegación fluida del entorno."
+  },
+  {
+    "name": "Pet Sim",
+    "slug": "pet-sim",
+    "year_start": 1995,
+    "year_end": null,
+    "description": "Simuladores de cuidado y crianza de mascotas virtuales."
+  },
+  {
+    "name": "Photography Game",
+    "slug": "photography-game",
+    "year_start": 1999,
+    "year_end": null,
+    "description": "Juegos centrados en tomar fotografías, con mecánicas basadas en composición y timing."
+  },
+  {
+    "name": "Physics Puzzle",
+    "slug": "physics-puzzle",
+    "year_start": 2009,
+    "year_end": null,
+    "description": "Puzzles basados en simulación física realista y manipulación de objetos."
+  },
+  {
+    "name": "Programming Puzzle",
+    "slug": "programming-puzzle",
+    "year_start": 1982,
+    "year_end": null,
+    "description": "Puzzles que requieren pensamiento algorítmico o programación real para resolverse."
+  },
+  {
+    "name": "Real-Time Tactics",
+    "slug": "real-time-tactics",
+    "year_start": 1998,
+    "year_end": null,
+    "description": "Juegos tácticos en tiempo real sin elementos de gestión de recursos o construcción de base."
+  },
+  {
+    "name": "Restaurant Sim",
+    "slug": "restaurant-sim",
+    "year_start": 1994,
+    "year_end": null,
+    "description": "Simuladores de gestión de restaurantes, desde cocina hasta administración del negocio."
+  },
+  {
+    "name": "Rhythm Platform",
+    "slug": "rhythm-platform",
+    "year_start": 2008,
+    "year_end": null,
+    "description": "Plataformas donde los movimientos y obstáculos están sincronizados con la música."
+  },
+  {
+    "name": "Roguelite FPS",
+    "slug": "roguelite-fps",
+    "year_start": 2013,
+    "year_end": null,
+    "description": "FPS con elementos roguelite como muerte permanente y niveles procedurales."
+  },
+  {
+    "name": "Side-Scrolling Shooter",
+    "slug": "side-scrolling-shooter",
+    "year_start": 1981,
+    "year_end": null,
+    "description": "Shooters con desplazamiento lateral y énfasis en esquivar proyectiles."
+  },
+  {
+    "name": "Simulation RPG",
+    "slug": "simulation-rpg",
+    "year_start": 1992,
+    "year_end": null,
+    "description": "RPGs con elementos profundos de simulación de vida o gestión."
+  },
+  {
+    "name": "Speed Running Platform",
+    "slug": "speedrun-platform",
+    "year_start": 2010,
+    "year_end": null,
+    "description": "Plataformas diseñadas específicamente para ser completadas lo más rápido posible."
+  },
+  {
+    "name": "Sports Management RPG",
+    "slug": "sports-management-rpg",
+    "year_start": 2017,
+    "year_end": null,
+    "description": "Híbrido de gestión deportiva con elementos RPG como desarrollo de personajes y narrativa."
+  },
+  {
+    "name": "Story Rich Puzzle",
+    "slug": "story-rich-puzzle",
+    "year_start": 2012,
+    "year_end": null,
+    "description": "Puzzles con narrativas elaboradas donde la historia es tan importante como los desafíos."
+  },
+  {
+    "name": "Tactical Card Game",
+    "slug": "tactical-card-game",
+    "year_start": 2014,
+    "year_end": null,
+    "description": "Juegos de cartas con elementos de posicionamiento y tácticas espaciales."
+  },
+  {
+    "name": "Text Adventure RPG",
+    "slug": "text-adventure-rpg",
+    "year_start": 1976,
+    "year_end": null,
+    "description": "RPGs basados en texto con elementos de aventura conversacional y toma de decisiones."
+  },
+  {
+    "name": "Town Management RPG",
+    "slug": "town-management-rpg",
+    "year_start": 1997,
+    "year_end": null,
+    "description": "RPGs centrados en desarrollar y gestionar comunidades mientras se desarrolla la narrativa."
+  }
+]
