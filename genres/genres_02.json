@@ -1,0 +1,261 @@
+[
+  {
+    "name": "Arcade Racing",
+    "slug": "arcade-racing",
+    "year_start": 1976,
+    "year_end": null,
+    "description": "Subgénero de carreras con físicas simplificadas, potenciadores y énfasis en diversión sobre realismo. Ejemplos incluyen Mario Kart y Burnout."
+  },
+  {
+    "name": "Auto Battler",
+    "slug": "auto-battler",
+    "year_start": 2019,
+    "year_end": null,
+    "description": "También conocido como Auto Chess, donde los jugadores construyen equipos que luchan automáticamente contra otros en rondas estratégicas."
+  },
+  {
+    "name": "Beat 'em up",
+    "slug": "beat-em-up",
+    "year_start": 1984,
+    "year_end": null,
+    "description": "Juegos de acción con combate contra múltiples enemigos al avanzar por niveles lineales, típicamente con progresión de izquierda a derecha."
+  },
+  {
+    "name": "Bullet Hell",
+    "slug": "bullet-hell",
+    "year_start": 1993,
+    "year_end": null,
+    "description": "Subgénero de shoot 'em up con patrones densos de proyectiles que requieren precisión extrema para navegar."
+  },
+  {
+    "name": "Character Action Game",
+    "slug": "character-action",
+    "year_start": 2001,
+    "year_end": null,
+    "description": "Juegos de acción estilizada con sistemas de combate profundos, combos y calificación de rendimiento, como Devil May Cry."
+  },
+  {
+    "name": "Clicker Game",
+    "slug": "clicker",
+    "year_start": 2013,
+    "year_end": null,
+    "description": "Subgénero de idle games donde el progreso se basa en clics repetitivos y mejoras incrementales automáticas."
+  },
+  {
+    "name": "Coding Game",
+    "slug": "coding-game",
+    "year_start": 1982,
+    "year_end": null,
+    "description": "Juegos educativos que enseñan programación a través de puzzles y desafíos que requieren escribir código."
+  },
+  {
+    "name": "Collectathon",
+    "slug": "collectathon",
+    "year_start": 1996,
+    "year_end": null,
+    "description": "Juegos de plataformas 3D centrados en recolectar numerosos objetos para progresar, populares en la era N64/PS1."
+  },
+  {
+    "name": "Cooking Sim",
+    "slug": "cooking-sim",
+    "year_start": 1995,
+    "year_end": null,
+    "description": "Simuladores centrados en la preparación de alimentos, gestión de cocina y servicio de restaurante."
+  },
+  {
+    "name": "Dungeon Crawler",
+    "slug": "dungeon-crawler",
+    "year_start": 1975,
+    "year_end": null,
+    "description": "RPGs centrados en explorar mazmorras, combatir monstruos y recolectar tesoro, típicamente con diseño de niveles laberíntico."
+  },
+  {
+    "name": "Educational Game",
+    "slug": "educational",
+    "year_start": 1971,
+    "year_end": null,
+    "description": "Juegos diseñados principalmente para enseñar mientras entretienen, cubriendo temas académicos o habilidades prácticas."
+  },
+  {
+    "name": "Endless Runner",
+    "slug": "endless-runner",
+    "year_start": 2011,
+    "year_end": null,
+    "description": "Juegos de plataformas automatizados donde el personaje corre continuamente y el jugador evita obstáculos."
+  },
+  {
+    "name": "Exergaming",
+    "slug": "exergaming",
+    "year_start": 1987,
+    "year_end": null,
+    "description": "Juegos que combinan ejercicio físico con mecánicas de juego, usando sensores de movimiento o equipamiento especializado."
+  },
+  {
+    "name": "Farming Sim",
+    "slug": "farming-sim",
+    "year_start": 1996,
+    "year_end": null,
+    "description": "Simuladores de agricultura donde los jugadores gestionan cultivos, animales y expansión de granjas."
+  },
+  {
+    "name": "First Person Walker",
+    "slug": "first-person-walker",
+    "year_start": 2008,
+    "year_end": null,
+    "description": "Juegos en primera persona centrados en exploración y narrativa con mecánicas de combate limitadas o inexistentes."
+  },
+  {
+    "name": "God Game",
+    "slug": "god-game",
+    "year_start": 1989,
+    "year_end": null,
+    "description": "Juegos donde el jugador actúa como una deidad, influenciando el desarrollo de civilizaciones o ecosistemas."
+  },
+  {
+    "name": "Gun-Fu",
+    "slug": "gun-fu",
+    "year_start": 2001,
+    "year_end": null,
+    "description": "Juegos de acción que combinan armas de fuego con artes marciales y movimientos acrobáticos estilizados."
+  },
+  {
+    "name": "Hidden Object",
+    "slug": "hidden-object",
+    "year_start": 2005,
+    "year_end": null,
+    "description": "Juegos de aventura donde los jugadores buscan objetos específicos en escenas detalladas."
+  },
+  {
+    "name": "Immersive Sim",
+    "slug": "immersive-sim",
+    "year_start": 1994,
+    "year_end": null,
+    "description": "Juegos que combinan elementos de RPG, FPS y stealth con sistemas emergentes y múltiples soluciones a problemas."
+  },
+  {
+    "name": "Interactive Fiction",
+    "slug": "interactive-fiction",
+    "year_start": 1975,
+    "year_end": null,
+    "description": "Aventuras basadas en texto donde los jugadores leen descripciones y escriben comandos para progresar."
+  },
+  {
+    "name": "Investigative",
+    "slug": "investigative",
+    "year_start": 1984,
+    "year_end": null,
+    "description": "Juegos centrados en resolver misterios mediante recolección de pistas, interrogatorios y deducción."
+  },
+  {
+    "name": "Light Gun Shooter",
+    "slug": "light-gun",
+    "year_start": 1968,
+    "year_end": null,
+    "description": "Juegos de disparos que utilizan periféricos en forma de pistola para apuntar a la pantalla."
+  },
+  {
+    "name": "Management Sim",
+    "slug": "management-sim",
+    "year_start": 1978,
+    "year_end": null,
+    "description": "Simuladores centrados en gestionar negocios, instalaciones o organizaciones con énfasis en economía y logística."
+  },
+  {
+    "name": "Monster Tamer",
+    "slug": "monster-tamer",
+    "year_start": 1996,
+    "year_end": null,
+    "description": "RPGs donde los jugadores capturan, entrenan y batallan con criaturas coleccionables."
+  },
+  {
+    "name": "Pinball",
+    "slug": "pinball",
+    "year_start": 1977,
+    "year_end": null,
+    "description": "Simulaciones digitales de máquinas de pinball con físicas realistas y sistemas de puntuación."
+  },
+  {
+    "name": "Political Sim",
+    "slug": "political-sim",
+    "year_start": 1981,
+    "year_end": null,
+    "description": "Simuladores de sistemas políticos donde los jugadores gestionan gobiernos, campañas o relaciones internacionales."
+  },
+  {
+    "name": "Precision Platformer",
+    "slug": "precision-platformer",
+    "year_start": 2008,
+    "year_end": null,
+    "description": "Plataformas extremadamente desafiantes que requieren timing perfecto y control preciso."
+  },
+  {
+    "name": "Rhythm Fighting",
+    "slug": "rhythm-fighting",
+    "year_start": 1999,
+    "year_end": null,
+    "description": "Híbrido de juegos de lucha y ritmo donde los ataques se sincronizan con la música."
+  },
+  {
+    "name": "Romance Sim",
+    "slug": "romance-sim",
+    "year_start": 1992,
+    "year_end": null,
+    "description": "Juegos centrados en desarrollar relaciones románticas con múltiples opciones de pareja y diferentes rutas narrativas."
+  },
+  {
+    "name": "Shoot 'em up",
+    "slug": "shmup",
+    "year_start": 1962,
+    "year_end": null,
+    "description": "Juegos de disparos con scroll vertical u horizontal donde el jugador enfrenta oleadas de enemigos y proyectiles."
+  },
+  {
+    "name": "Social Deduction",
+    "slug": "social-deduction",
+    "year_start": 2018,
+    "year_end": null,
+    "description": "Juegos multijugador donde los jugadores deben identificar roles ocultos mientras completan tareas o sabotean."
+  },
+  {
+    "name": "Space Sim",
+    "slug": "space-sim",
+    "year_start": 1962,
+    "year_end": null,
+    "description": "Simuladores de vuelo espacial y comercio con énfasis en exploración, combate y economía interestelar."
+  },
+  {
+    "name": "Sports Management",
+    "slug": "sports-management",
+    "year_start": 1982,
+    "year_end": null,
+    "description": "Simuladores donde los jugadores gestionan equipos deportivos, incluyendo fichajes, tácticas y desarrollo de jugadores."
+  },
+  {
+    "name": "Time Management",
+    "slug": "time-management",
+    "year_start": 2004,
+    "year_end": null,
+    "description": "Juegos donde los jugadores deben completar tareas eficientemente dentro de límites de tiempo, típicamente en entornos de servicio."
+  },
+  {
+    "name": "Trading Card Game",
+    "slug": "tcg",
+    "year_start": 1993,
+    "year_end": null,
+    "description": "Juegos digitales basados en cartas coleccionables con construcción de mazos y combate estratégico."
+  },
+  {
+    "name": "Vehicle Sim",
+    "slug": "vehicle-sim",
+    "year_start": 1974,
+    "year_end": null,
+    "description": "Simuladores realistas de vehículos específicos, incluyendo aviones, trenes, camiones y maquinaria pesada."
+  },
+  {
+    "name": "Wave Defense",
+    "slug": "wave-defense",
+    "year_start": 1980,
+    "year_end": null,
+    "description": "Juegos donde los jugadores defienden una posición contra oleadas progresivamente más difíciles de enemigos."
+  }
+]
